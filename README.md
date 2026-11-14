@@ -87,8 +87,7 @@ The program detects image contours but does not automatically classify products 
 This project helped me practice Python functions, image processing, file handling, and basic computer vision techniques.
 
 ## Author
-
-Beginner Python Developer  
+Jelena Cajic biginer student 
 AI & Machine Learning Student — ITAcademy
 
 GitHub: https://github.com/jexymitic-cpu
